@@ -159,7 +159,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=auradad&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://raw.githubusercontent.com/auradad/auradad/output/trophy.svg" width="100%"/>
 
 </div>
 
