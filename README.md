@@ -8,7 +8,7 @@
 
 ![Location](https://img.shields.io/badge/Location-India-8A2BE2?style=flat-square)
 [![Portfolio](https://img.shields.io/badge/Portfolio-auradad.info-6D28D9?style=flat-square&logo=vercel&logoColor=white)](https://auradad.info)
-[![Email](https://img.shields.io/badge/Email-purchase%40auradad.info-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:purchase@auradad.info)
+[![Email](https://img.shields.io/badge/Email-mail%40auradad.info-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:mail@auradad.info)
 [![GitHub](https://img.shields.io/badge/GitHub-auradad-4C1D95?style=flat-square&logo=github&logoColor=white)](https://github.com/auradad)
 
 <br/>
@@ -49,25 +49,25 @@ Primary interests include backend development, Discord integrations, Minecraft e
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+![Languages](https://skillicons.dev/icons?i=js,ts,java,html,css)
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-&nbsp;
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma_ORM-6D28D9?style=flat-square&logo=prisma&logoColor=white)
 
 **Databases**
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-&nbsp;
+![Databases](https://skillicons.dev/icons?i=mysql)
+
 ![SQLite](https://img.shields.io/badge/SQLite-7C3AED?style=flat-square&logo=sqlite&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-8A2BE2?style=flat-square&logo=mariadb&logoColor=white)
 
 **Tools & Environment**
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode)
 
 **Minecraft Technologies**
 
@@ -147,7 +147,7 @@ Scope of work:
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=auradad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=auradad&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
+<img src="https://streak-stats.demolab.com/?user=auradad&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auradad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
 
@@ -160,16 +160,6 @@ Scope of work:
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=auradad&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=auradad&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8A2BE2&point=C9D1D9" width="100%"/>
 
 </div>
 
@@ -215,7 +205,7 @@ Open To:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-purchase%40auradad.info-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:purchase@auradad.info)
+[![Email](https://img.shields.io/badge/Email-mail%40auradad.info-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@auradad.info)
 [![GitHub](https://img.shields.io/badge/GitHub-auradad-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/auradad)
 [![Portfolio](https://img.shields.io/badge/Portfolio-auradad.info-6D28D9?style=for-the-badge&logo=vercel&logoColor=white)](https://auradad.info)
 
