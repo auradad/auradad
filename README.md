@@ -146,10 +146,10 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=auradad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=auradad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8A2BE2&text_color=C9D1D9" width="48%"/>
 <img src="https://streak-stats.demolab.com/?user=auradad&theme=tokyonight&hide_border=true&background=0D1117&ring=8A2BE2&fire=A78BFA&currStreakLabel=A78BFA" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auradad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=auradad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" width="48%"/>
 
 </div>
 
@@ -159,7 +159,7 @@ Scope of work:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=auradad&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=auradad&theme=discord&no-frame=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
